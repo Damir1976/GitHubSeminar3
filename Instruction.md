@@ -36,4 +36,8 @@
 
 **git remote add origin https://github.com/someurl..** - добавление удалённого репозитория 
 
-**git push origin main** - отправка изменений в удалённый репозиторий
+**git remote set-url origin https://github.com/someurl..** - изменение удалённого репозитория
+
+**git push** - отправка изменений в удалённый репозиторий
+
+**git pull** - получение изменений из удалённого репозитория
